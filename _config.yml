@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Grant R. McDermott
+title: Ruth Morales
 url: https://grantmcdermott.com
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
 
-# repository: grantmcdermott/grantmcdermott.github.io
+# repository: ruthmorales/ruthmorales.github.io
 github: [metadata]
-email: grantmcd@uoregon.edu
+email: r_morales@ucsb.edu
 description: >- # this means to ignore newlines in the text below
-  Grant McDermott's personal website.
-twitter_username: grant_mcdermott
-github_username: grantmcdermott
+  Ruth Morales's personal website.
+twitter_username: moreconx
+github_username: ruthmorales
 minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
@@ -63,39 +63,39 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Grant McDermott"
+  name   : "Ruth Morales"
   avatar : "/assets/images/rmorales.jpg"
   bio    : 
-    Assistant Prof. at the University of Oregon. 
-    Interested in environmental economics & data science.
+    Economics Ph.D. Student at UC Santa Barbara
+    Interested in immigration, education, and crime.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://grantmcdermott.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:grantmcd@uoregon.edu"
+      url: "mailto:r_morales@ucsb.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/moreconx"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "http://orcid.org/0000-0001-7883-8573"
+      url: "https://github.com/ruthmorales"
+   # - label: "Scholar"
+    #  icon: "ai ai-google-scholar"
+     #  url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
+   # - label: "ORCID"
+    #  icon: "ai ai-orcid"
+     # url: "http://orcid.org/0000-0001-7883-8573"
       
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/moreconx"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/ruthmorales"
 
 defaults:
   # _posts
