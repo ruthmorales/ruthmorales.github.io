@@ -2,9 +2,12 @@
 title: Teaching
 permalink: /teaching/
 header:
-  image: /assets/images/haceta-crop2.jpg
+  image: /assets/images/friendship-park.jpg
 ---
+### Courses
 
+
+<!-- use this to comment out 
 Unless otherwise noted, all courses are currently being taught at the University of Oregon's Department of Economics.
 
 ### Graduate
@@ -17,4 +20,4 @@ Unless otherwise noted, all courses are currently being taught at the University
 
 *Environmental Economics*, EC 434. ([Syllabus]({{ site.url }}/assets/docs/teaching/ec434-syllabus.pdf).)
 
-*Intermediate Microeconomic Theory*, EC 311. ([Syllabus]({{ site.url }}/assets/docs/teaching/ec311-syllabus.pdf).)
+*Intermediate Microeconomic Theory*, EC 311. ([Syllabus]({{ site.url }}/assets/docs/teaching/ec311-syllabus.pdf).) -->
