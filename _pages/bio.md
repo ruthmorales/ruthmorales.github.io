@@ -2,7 +2,7 @@
 title: Bio
 permalink: /bio/
 header:
-  image: /assets/images/sedona.png
+  image: /assets/images/friendship.jpeg
 ---
 
 Info about me here...and here
