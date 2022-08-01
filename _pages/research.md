@@ -25,8 +25,8 @@ header:
 -->
 
 
-## Selected works in progress
 <!--
+## Selected works in progress
 
 #"The value of mass information: Search in the Google era." With Christopher J. Costello and Michael B. Ward.
 
