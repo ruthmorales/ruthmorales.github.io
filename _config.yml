@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ruth Morales
-url: https://grantmcdermott.com
+url: https://ruth-morales.com
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
@@ -71,7 +71,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://grantmcdermott.com"
+      url: "https://ruth-morales.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:r_morales@ucsb.edu"
@@ -137,7 +137,7 @@ analytics:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "grantmcdermott-blog"
+    shortname: "moreconx-blog"
 
 category_archive:
   type: liquid
