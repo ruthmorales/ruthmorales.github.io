@@ -5,7 +5,7 @@ header:
   image: /assets/images/sedona.png
 ---
 
-Info about me here. 
+Info about me here...
 
 Blah
 # Here are [two](http://www.youtube.com/watch?v=BOFWtnCMnJw){:target="_blank"} [promo](http://www.youtube.com/watch?v=fL4JsEH_CJU){:target="_blank"} videos of the expedition that were made as part of a pitch to Irish television companies.
