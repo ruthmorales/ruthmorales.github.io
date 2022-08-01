@@ -7,11 +7,11 @@ header:
   image: /assets/images/friendship-park.jpg
 ---
 
-This is who I am
+This is who I am...
 
 - Item 
 - Item 
 - Item 
 - Item 
-- Thing
+- Things
 

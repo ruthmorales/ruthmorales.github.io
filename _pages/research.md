@@ -5,7 +5,8 @@ header:
   image: /assets/images/friendship-park.jpg
 ---
 
-## Working papersssss
+## Works in Progress
+<!-- 
 
 #"Labor reallocation and remote work during COVID-19: Real-time evidence from GitHub." With B. Hansen. NBER Working Paper no. [w29598](https://www.nber.org/papers/w29598){:target="_blank"}.
 
@@ -25,12 +26,11 @@ header:
 
 
 ## Selected works in progress
+<!--
 
 #"The value of mass information: Search in the Google era." With Christopher J. Costello and Michael B. Ward.
 
-<!--
 *A broad class of economic decision problems involves searching over a collection of uncertain research leads. Existing search theory informs the efficient search over this pool using available information. But in many cases, the researcher has the opportunity to collect new information en masse, e.g. with a search engine or scientific framework, that will benefit the search. We derive the value of this type of bulk information, determine the general properties that render it large or small, and calculate its implications for economic innovation. We show that changes to the underlying characteristics of different search problems can yield surprising results. For example, more lucrative end-prizes can actually reduce the value of information, while the possibility of better information often suppresses innovation.*
--->
 
 #"The economic and environmental impact of modern piracy on global shipping." With Renato Molina and Gavin G. McDonald.
 
@@ -54,4 +54,4 @@ header:
 
 #"South Africa Compliance Analysis." With James Morrissey and Davina Mendelsohn, in “Governing Global Climate Change: St Petersburg Compliance Report for the ‘G8 Plus Five’ Countries”, Maria Banda and Joanna Langille (eds.), G8 Final Compliance Report 2007, Oxford: G8 Research Group Oxford, 1 June 2007. xiii + 190 pp. [Report](http://www.g8.utoronto.ca/oxford/2006compliance-ox.pdf){:target="_blank"}.
 
-#"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. [Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}.
+#"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. [Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}. use this to comment out -->
