@@ -5,8 +5,7 @@ header:
   image: /assets/images/friendship-park.jpg
 ---
 
-Info about me here...and here...and here
-
+This site is under construction.
 <!-- use this to comment out -->
 
 <!-- Here are [two](http://www.youtube.com/watch?v=BOFWtnCMnJw){:target="_blank"} [promo](http://www.youtube.com/watch?v=fL4JsEH_CJU){:target="_blank"} videos of the expedition that were made as part of a pitch to Irish television companies.
